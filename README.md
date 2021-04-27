@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ? Discord: C0$MiX#9395
+- 👤 Portfolio @ https://cosmix-6.github.io
 
 <!---
 CosmiX-6/CosmiX-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

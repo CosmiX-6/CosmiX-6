@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me ? Discord: C0$MiX#9395
+- 📫 How to reach me ? Discord: C0$MiX#2412
 - 👤 Portfolio @ https://cosmix-6.github.io
 
 <!---

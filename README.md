@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/CosmiX-6/CosmiX-6/blob/master/profile.png "Header")
+[![Header](https://raw.githubusercontent.com/CosmiX-6/CosmiX-6/master/profile.png "Header")
 
 ## Hi there, I'm Akash! <img src="https://raw.githubusercontent.com/CosmiX-6/CosmiX-6/master/wave.gif" width="30px">
 

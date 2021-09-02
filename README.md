@@ -10,8 +10,8 @@ By the end of this year I will make a move to find and join an organization to w
 You can reach me @ Discord: [C0$MiX](https://discord.com/users/366283102462541865)
 Also you can visit my Portfolio @ https://cosmix-6.github.io
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CosmiX-6&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmiX-6&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=CosmiX-6&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=yeblu"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmiX-6&layout=compact&card_width=250&hide_border=true&theme=yeblu"/>
 
 <!---
 CosmiX-6/CosmiX-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

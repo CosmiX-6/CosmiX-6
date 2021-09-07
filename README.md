@@ -13,6 +13,7 @@ You can reach me @ Discord: [C0$MiX](https://discord.com/users/36628310246254186
 Also you can visit my Portfolio @ https://cosmix-6.github.io
 
 ## Tools & Technologies_
+<p align="center">
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,6 +24,7 @@ Also you can visit my Portfolio @ https://cosmix-6.github.io
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
 
 ## GitHub Stats_

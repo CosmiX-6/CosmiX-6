@@ -12,6 +12,21 @@ By the end of this year I will make a move to find and join an organization to w
 You can reach me @ Discord: [C0$MiX](https://discord.com/users/366283102462541865)
 Also you can visit my Portfolio @ https://cosmix-6.github.io
 
+## Tools & Technologies_
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## GitHub Stats_
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CosmiX-6&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=yeblu"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmiX-6&layout=compact&card_width=250&hide_border=true&theme=yeblu"/>
 
